@@ -1,0 +1,17 @@
+{
+    "name": "rocket",
+    "framework": "vite",
+    "aliases": {
+      "@/components": "./components",
+      "@/lib": "./lib"
+    },
+    "componentPath": "./components",
+    "utilsPath": "./lib/utils.ts",
+    "tailwind": {
+      "config": "tailwind.config.js",
+      "css": "src/index.css",
+      "baseColor": "zinc",
+      "cssVariables": true
+    }
+  }
+  

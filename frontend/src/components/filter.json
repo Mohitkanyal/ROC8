@@ -1,0 +1,272 @@
+[
+    {
+      "recommended_course": "Machine Learning A-Z",
+      "platform": "Coursera",
+      "course_link": "https://www.coursera.org/learn/machine-learning",
+      "key_metrics_original": {
+        "rating": 3.66,
+        "enrollments": 196293
+      }
+    },
+    {
+      "recommended_course": "Machine Learning A-Z",
+      "platform": "YouTube",
+      "course_link": "https://www.youtube.com/playlist?list=PLulEtxNA34XSEZ0gC3g1Zhsa3JvNBzWFT",
+      "key_metrics_original": {
+        "likes": 70330,
+        "views": 101928
+      }
+    },
+    {
+      "recommended_course": "Deep Learning Specialization",
+      "platform": "Pluralsight",
+      "course_link": "https://www.pluralsight.com/paths/introduction-to-deep-learning",
+      "key_metrics_original": {
+        "rating": 4.41,
+        "enrollments": 87965
+      }
+    },
+    {
+      "recommended_course": "Deep Learning Specialization",
+      "platform": "YouTube",
+      "course_link": "https://www.youtube.com/playlist?list=PLkDaE6sCnH0m6SuQ1iLpG31QszJTh-rWi",
+      "key_metrics_original": {
+        "likes": 69864,
+        "views": 613080
+      }
+    },
+    {
+      "recommended_course": "Deep Learning Specialization",
+      "platform": "Coursera",
+      "course_link": "https://www.coursera.org/specializations/deep-learning",
+      "key_metrics_original": {
+        "rating": 4.99,
+        "enrollments": 97760
+      }
+    },
+    {
+      "recommended_course": "React for Beginners",
+      "platform": "Pluralsight",
+      "course_link": "https://www.pluralsight.com/courses/react-what-is",
+      "key_metrics_original": {
+        "rating": 4.28,
+        "enrollments": 170637
+      }
+    },
+    {
+      "recommended_course": "React for Beginners",
+      "platform": "edX",
+      "course_link": "https://www.edx.org/learn/reactjs",
+      "key_metrics_original": {
+        "rating": 4.25,
+        "enrollments": 52161
+      }
+    },
+    {
+      "recommended_course": "Full Stack Web Development",
+      "platform": "Coursera",
+      "course_link": "https://www.coursera.org/specializations/full-stack-react",
+      "key_metrics_original": {
+        "rating": 3.68,
+        "enrollments": 126866
+      }
+    },
+    {
+      "recommended_course": "Full Stack Web Development",
+      "platform": "YouTube",
+      "course_link": "https://www.youtube.com/playlist?list=PL4cUxeGZceqThB_YjCCwJiknCpJEqqPmF",
+      "key_metrics_original": {
+        "likes": 16456,
+        "views": 783291
+      }
+    },
+    {
+      "recommended_course": "Full Stack Web Development",
+      "platform": "Udemy",
+      "course_link": "https://www.udemy.com/course/the-web-developer-bootcamp/",
+      "key_metrics_original": {
+        "rating": 4.77,
+        "enrollments": 166299
+      }
+    },
+    {
+      "recommended_course": "Full Stack Web Development",
+      "platform": "edX",
+      "course_link": "https://www.edx.org/certificates/professional-certificate/hkustx-full-stack-web-development-with-react",
+      "key_metrics_original": {
+        "rating": 5.0,
+        "enrollments": 113538
+      }
+    },
+    {
+      "recommended_course": "Cloud Architecture with AWS",
+      "platform": "YouTube",
+      "course_link": "https://www.youtube.com/watch?v=73sP5PTkC6o",
+      "key_metrics_original": {
+        "likes": 84558,
+        "views": 232652
+      }
+    },
+    {
+      "recommended_course": "Cloud Architecture with AWS",
+      "platform": "Pluralsight",
+      "course_link": "https://www.pluralsight.com/paths/aws-certified-solutions-architect-associate-saa-c03",
+      "key_metrics_original": {
+        "rating": 3.52,
+        "enrollments": 57740
+      }
+    },
+    {
+      "recommended_course": "Cybersecurity Fundamentals",
+      "platform": "YouTube",
+      "course_link": "https://www.youtube.com/watch?v=bW7ay8W0yrk",
+      "key_metrics_original": {
+        "likes": 67412,
+        "views": 586710
+      }
+    },
+    {
+      "recommended_course": "Cybersecurity Fundamentals",
+      "platform": "Pluralsight",
+      "course_link": "https://www.pluralsight.com/courses/cyber-security-essentials",
+      "key_metrics_original": {
+        "rating": 3.99,
+        "enrollments": 6607
+      }
+    },
+    {
+      "recommended_course": "Cybersecurity Fundamentals",
+      "platform": "Udemy",
+      "course_link": "https://www.udemy.com/course/fundamentals-of-cybersecurity-a-practical-approach/",
+      "key_metrics_original": {
+        "rating": 3.67,
+        "enrollments": 92368
+      }
+    },
+    {
+      "recommended_course": "Cybersecurity Fundamentals",
+      "platform": "Coursera",
+      "course_link": "https://www.coursera.org/specializations/intro-cyber-security",
+      "key_metrics_original": {
+        "rating": 4.01,
+        "enrollments": 194896
+      }
+    },
+    {
+      "recommended_course": "Python for Data Science",
+      "platform": "Pluralsight",
+      "course_link": "https://www.pluralsight.com/paths/data-science-with-python",
+      "key_metrics_original": {
+        "rating": 4.0,
+        "enrollments": 93588
+      }
+    },
+    {
+      "recommended_course": "Python for Data Science",
+      "platform": "Udemy",
+      "course_link": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/",
+      "key_metrics_original": {
+        "rating": 4.88,
+        "enrollments": 130595
+      }
+    },
+    {
+      "recommended_course": "Python for Data Science",
+      "platform": "edX",
+      "course_link": "https://www.edx.org/certificates/professional-certificate/harvardx-python-for-data-science-and-machine-learning",
+      "key_metrics_original": {
+        "rating": 4.87,
+        "enrollments": 14321
+      }
+    },
+    {
+      "recommended_course": "Python for Data Science",
+      "platform": "YouTube",
+      "course_link": "https://www.youtube.com/playlist?list=PL5Xcy6dOVLWonDwZaF9KDK9ok6Y2WVDiI",
+      "key_metrics_original": {
+        "likes": 18793,
+        "views": 514884
+      }
+    },
+    {
+      "recommended_course": "SQL Mastery",
+      "platform": "edX",
+      "course_link": "https://www.edx.org/learn/sql/stanford-university-databases-advanced-topics-in-sql",
+      "key_metrics_original": {
+        "rating": 4.19,
+        "enrollments": 113515
+      }
+    },
+    {
+      "recommended_course": "SQL Mastery",
+      "platform": "YouTube",
+      "course_link": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+      "key_metrics_original": {
+        "likes": 8342,
+        "views": 885671
+      }
+    },
+    {
+      "recommended_course": "DevOps Engineering",
+      "platform": "YouTube",
+      "course_link": "https://www.youtube.com/watch?v=hW6hJ0zFw-0",
+      "key_metrics_original": {
+        "likes": 76680,
+        "views": 728791
+      }
+    },
+    {
+      "recommended_course": "DevOps Engineering",
+      "platform": "Pluralsight",
+      "course_link": "https://www.pluralsight.com/paths/devops-foundations",
+      "key_metrics_original": {
+        "rating": 4.0,
+        "enrollments": 97692
+      }
+    },
+    {
+      "recommended_course": "DevOps Engineering",
+      "platform": "edX",
+      "course_link": "https://www.edx.org/certificates/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools",
+      "key_metrics_original": {
+        "rating": 3.6,
+        "enrollments": 44139
+      }
+    },
+    {
+      "recommended_course": "DevOps Engineering",
+      "platform": "Udemy",
+      "course_link": "https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/",
+      "key_metrics_original": {
+        "rating": 3.92,
+        "enrollments": 13171
+      }
+    },
+    {
+      "recommended_course": "AI for Everyone",
+      "platform": "edX",
+      "course_link": "https://www.edx.org/learn/artificial-intelligence/ibm-ai-for-everyone-master-the-basics",
+      "key_metrics_original": {
+        "rating": 4.41,
+        "enrollments": 54120
+      }
+    },
+    {
+      "recommended_course": "AI for Everyone",
+      "platform": "Coursera",
+      "course_link": "https://www.coursera.org/learn/ai-for-everyone",
+      "key_metrics_original": {
+        "rating": 4.39,
+        "enrollments": 85814
+      }
+    },
+    {
+      "recommended_course": "AI for Everyone",
+      "platform": "YouTube",
+      "course_link": "https://www.youtube.com/watch?v=In09x7RYcWI",
+      "key_metrics_original": {
+        "likes": 42222,
+        "views": 754321
+      }
+    }
+  ]
