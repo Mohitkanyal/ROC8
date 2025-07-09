@@ -1,4 +1,4 @@
-const backendDomain = "http://localhost:8080";
+const backendDomain = "https://roc8-fn7b.onrender.com";
 
 const SummaryApi = {
     register :{
