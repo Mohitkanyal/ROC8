@@ -1,4 +1,4 @@
-const backendDomain = process.env.REACT_APP_BACKEND_URL
+const backendDomain = "https://roc8-fn7b.onrender.com"
 const SummaryApi = {
     register :{
         url: `${backendDomain}/api/Register`,
